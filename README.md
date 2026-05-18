@@ -1,4 +1,6 @@
-# DynaPool _2026 Updated_
+# DynaPool 
+
+_May 2026 Updated_
 
 **Input-adaptive pooling benchmark** on Tiny-ImageNet with a ResNet-18 backbone.  
 DynaPool learns **per-instance mixture weights** over four simple operators: **Average, Max, GeM, Attention** via a lightweight gating MLP.
